@@ -54,9 +54,11 @@ if(!empty($this->data['htmlinject']['htmlContentPost'])) {
                     </div>
                 </div>
             </div>
-            <div class="footer-bottom-text"><p>Code Enigma Limited is a company registered in England and Wales with company number 7390130.5 St John's Lane, London, EC1M 4BHVAT<br>
-                    Registration: GB 998 2127 74</p>
-                <p>Code Enigma SAS est une entreprise enregistré en France au Greffe de Nîmes, SIREN 845 340 264.Société par Actions Simplifiée au capital de €50 000,00 L’Atrium, 100 Route de Nîmes, 30132 CAISSARGUES<br>
+            <div class="footer-bottom-text"><p>Code Enigma Limited is a company registered in England and Wales with company number 7390130.<br>
+                    5 St John's Lane, London, EC1M 4BH<br>
+                    VAT Registration: GB 998 2127 74</p>
+                <p>Code Enigma SAS est une entreprise enregistré en France au Greffe de Nîmes, SIREN 845 340 264.<br>
+                    Société par Actions Simplifiée au capital de €50 000,00 L’Atrium, 100 Route de Nîmes, 30132 CAISSARGUES<br>
                     Numèro de TVA: FR 36 845 340 264</p>
             </div>
         </div>
