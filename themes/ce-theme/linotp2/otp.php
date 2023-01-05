@@ -56,9 +56,9 @@ $this->includeAtTemplateBase('includes/header.php');
             <div class="call-to-action">
                 <div class="block-get-in-touch">
                     <p>
-                        You can use an authenticator phone app such as Google Authenticator or a Code Enigma YubiKey to use this service.<br />
-                        If you have never configured a 2FA device for use with Code Enigma services, please visit <a href="https://2fa.codeenigma.net">our 2FA selfservice portal</a> and register your phone app / YubiKey.<br />
-                        Note, only <strong>Code Enigma issued</strong> YubiKeys can work at this time. <br />
+                        If you have never configured a 2FA device for use with our services, <a href="https://2fa.codeenigma.net">visit our selfservice portal</a> to register your phone app or YubiKey.<br />
+                        You can use an authenticator phone app, such as Google Authenticator, or a Code Enigma YubiKey to use this service.<br />
+                        Note, only <strong>Code Enigma issued</strong> YubiKeys can be registered at this time.<br />
                         If you are still experiencing difficulties having registered your token, please <a href="https://redmine.codeenigma.net">contact support</a>.
                     </p>
                 </div>
